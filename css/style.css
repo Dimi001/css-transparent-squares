@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5dd ;}
+
+.t-square1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,1);
+}
+
+.t-square2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.t-square3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.t-square4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0,0,0,0.4);
+}
