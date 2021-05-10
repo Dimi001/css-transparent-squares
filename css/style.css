@@ -2,23 +2,23 @@ body {
     background-color: #f5f5dd;
 }
 
-#size {
+.size {
     width: 100px;
     height:100px;
 }
 
-.t-square1 {
+#t-square1 {
     background-color: rgba(0,0,0,1);
 }
 
-.t-square2 {
+#t-square2 {
     background-color: rgba(0,0,0,0.8);
 }
 
-.t-square3 {
+#t-square3 {
     background-color: rgba(0,0,0,0.6);
 }
 
-.t-square4 {
+#t-square4 {
     background-color: rgba(0,0,0,0.4);
 }
